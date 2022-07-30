@@ -3,4 +3,4 @@
 
 ### WEBSITE PREVIEW 
 
-![Fullscreenshot](images/ScreeShot_portfolio.jpeg.jpg) 
+![Fullscreenshot](https://github.com/arjunanil12/arjunanil12.github.io/blob/main/images/ScreeShot_portfolio.jpeg) 
